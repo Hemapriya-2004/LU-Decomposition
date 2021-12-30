@@ -52,8 +52,8 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](ss1.png)
-![lu decomposition](ss.png)
+![lu decomposition](https://github.com/Hemapriya-2004/LU-Decomposition/blob/79ca1cd1f0c2e51d6fd3ff7065bd13796aac9343/ss1.PNG)
+![lu decomposition](https://github.com/Hemapriya-2004/LU-Decomposition/blob/79ca1cd1f0c2e51d6fd3ff7065bd13796aac9343/ss.PNG)
 
 
 ## Result:
