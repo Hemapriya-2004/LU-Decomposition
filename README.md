@@ -52,6 +52,7 @@ print(x)
 ```
 
 ## Output:
+![lu decomposition](ss1.png)
 ![lu decomposition](ss.png)
 
 
